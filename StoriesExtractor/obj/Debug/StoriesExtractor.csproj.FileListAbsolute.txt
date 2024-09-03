@@ -1,0 +1,11 @@
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\obj\Debug\StoriesExtractor.csproj.AssemblyReference.cache
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\obj\Debug\StoriesExtractor.csproj.CoreCompileInputs.cache
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\bin\Debug\StoriesExtractor.exe.config
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\bin\Debug\StoriesExtractor.exe
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\bin\Debug\StoriesExtractor.pdb
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\obj\Debug\StoriesE.AB18DA7C.Up2Date
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\obj\Debug\StoriesExtractor.exe
+C:\Users\jguillevic\source\repos\StoriesExtractor\StoriesExtractor\obj\Debug\StoriesExtractor.pdb
